@@ -2,8 +2,6 @@
 
 # ClassifiersAndRegressors
 
-Welcome to ClassifiersAndRegressors ! 🎉
-
 ![Neural Network](https://miro.medium.com/v2/resize:fit:1400/1*BIpRgx5FsEMhr1k2EqBKFg.gif)
 
 ## Project Overview
@@ -27,12 +25,6 @@ The goal of this project is to build classifiers and regressors from scratch, pr
 - Lasso Regression
 - Elastic Net
 - Polynomial Regression
-## How to Use
-
-1. Clone the repository
-2. Install requirements: `pip install -r requirements.txt`
-3. Explore the Python files in the `classifiers` and `regressors` directories
-4. Run tests using `pytest` (if implemented)
 
 ## Implementation Details
 
